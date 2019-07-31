@@ -1,0 +1,20 @@
+[
+{
+    "model": "authenticationapp.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$150000$MHL4n2uJDQKD$isPP7X1AAt5WlTGhzo8llYQlV4r7Kk0K0yzdah8py+s=",
+        "last_login": "2019-07-15T17:18:11.308Z",
+        "email": "kandpal5@gmail.com",
+        "mobile": null,
+        "first_name": "deep",
+        "last_name": null,
+        "created_date": "2019-07-15T17:14:04.455Z",
+        "staff": true,
+        "admin": true,
+        "active": true,
+        "confirmed": false,
+        "confirmed_date": null
+    }
+}
+]
